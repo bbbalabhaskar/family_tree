@@ -1,15 +1,17 @@
 # family_tree
 
 
-![Alt text](https://g.gravizo.com/source/custom_mark1?https%3A%2F%2Fgithub.com%2Fbbbalabhaskar%2Ffamily_tree%2Fblob%2Fmain%2FREADME.md)
+![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fgithub.com%2Fbbbalabhaskar%2Ffamily_tree%2Fblob%2Fmain%2FREADME.md)
 
 
 ```
-![Alt text](https://g.gravizo.com/source/custom_mark1?https%3A%2F%2Fgithub.com%2Fbbbalabhaskar%2Ffamily_tree%2Fblob%2Fmain%2FREADME.md)
+![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fgithub.com%2Fbbbalabhaskar%2Ffamily_tree%2Fblob%2Fmain%2FREADME.md)
 <details> 
 <summary></summary>
-custom_mark1
+custom_mark10
   digraph g {
+    size ="4,4";
+    main [shape=box];
     fontname="Helvetica,Arial,sans-serif"
     node [fontname="Helvetica,Arial,sans-serif"]
     edge [fontname="Helvetica,Arial,sans-serif"]
@@ -103,6 +105,6 @@ custom_mark1
     M42 [shape=record, color=blue, style=bold, label="కృష్ణకాంత్"]
     "M36":f0 -> "M42" [style=bold,color=blue];
   }
-custom_mark1
+custom_mark10
 </details>
 ```
